@@ -1,4 +1,4 @@
--- Active: 1731334832530@@127.0.0.1@5432@postgres
+-- Active: 1732714575720@@127.0.0.1@5432@postgres@public
 
 CREATE TABLE User_(
     user_id int NOT NULL PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
